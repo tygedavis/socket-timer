@@ -11,4 +11,4 @@ io.on('connect', (client) => {
 
 const port = 8000;
 io.listen(port);
-console.log(`App listening on port ${port}`)
+console.log(`App listening on port ${port}`);
